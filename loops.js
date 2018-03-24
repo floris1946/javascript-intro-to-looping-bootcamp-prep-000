@@ -33,7 +33,7 @@ function doWhileLoop(array) {
 //console.log(whileLoop(number))
 //console.log(doWhileLoop(array))
 //console.log(forLoop(array))
-array;
+console.log(array)
 
 /*
 describe('loops', () => {
