@@ -1,4 +1,4 @@
-array = [];
+array = ['yo'];
 
 //number = 25
 
