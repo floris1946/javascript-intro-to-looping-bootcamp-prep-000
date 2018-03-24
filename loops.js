@@ -26,7 +26,7 @@ function doWhileLoop(array) {
 	}
 }
 
-
+console.log(forLoop(array))
 
 /*
 describe('loops', () => {
