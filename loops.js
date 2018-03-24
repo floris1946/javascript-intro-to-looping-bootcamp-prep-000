@@ -31,7 +31,11 @@ function doWhileLoop(array) {
 }
 
 //console.log(whileLoop(number))
-console.log(doWhileLoop(array))
+//console.log(doWhileLoop(array))
+
+do {
+  console.log('doo-bee-doo-bee-doo')
+} while (maybeTrue());
 
 
 /*
