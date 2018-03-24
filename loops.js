@@ -24,7 +24,7 @@ function doWhileLoop(array) {
 	while (array.length > 0 && maybeTrue())
 }
 
-console.log(forLoop(array))
+console.log(whileLoop(array))
 
 /*
 describe('loops', () => {
