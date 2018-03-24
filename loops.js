@@ -1,3 +1,29 @@
+function forLoop(array) {
+	for (let i = 1; i <= 25; i++) {
+		if (var === 1) {
+			console.log(`I am + $i “strange loop.”);
+		}
+		else {
+			console.log(“I am $(i) strange loops.”);
+		}
+	}	
+}
+
+function whileLoop(number) {
+	while (number > 0) {
+		number—;
+		console.log(number);
+	}
+}
+
+function doWhileLoop(array) {
+	do {
+		array.maybeTrue();
+	}
+	while {
+		array.length > 0 && maybeTrue()
+	}
+}
 
 
 
