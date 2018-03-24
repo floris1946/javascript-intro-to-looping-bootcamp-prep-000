@@ -1,4 +1,4 @@
-array = {'5'};
+array = [5, 4];
 
 number = 25
 
