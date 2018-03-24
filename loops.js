@@ -27,7 +27,7 @@ function doWhileLoop(array) {
 }
 
 console.log(whileLoop(number))
-console.log(doWhileLoop(array))
+//console.log(doWhileLoop(array))
 
 
 /*
