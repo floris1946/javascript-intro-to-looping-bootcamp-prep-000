@@ -1,3 +1,6 @@
+//array = [5, 4];
+
+//number = 25
 
 function forLoop(array) {
 	for (let i = 1; i <= 25; i++) {
