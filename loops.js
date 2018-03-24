@@ -18,7 +18,7 @@ function whileLoop(number) {
 		number--;
 		console.log(number);
 	}
-	return 
+	return `done`
 }
 
 function maybeTrue() {
