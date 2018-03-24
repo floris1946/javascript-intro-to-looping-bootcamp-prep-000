@@ -1,4 +1,4 @@
-//array = [5, 4];
+array = [];
 
 //number = 25
 
