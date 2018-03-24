@@ -21,9 +21,7 @@ function doWhileLoop(array) {
 	do {
 		array.maybeTrue();
 	}
-	while {
-		array.length > 0 && maybeTrue()
-	}
+	while (array.length > 0 && maybeTrue())
 }
 
 console.log(forLoop(array))
