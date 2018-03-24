@@ -2,8 +2,7 @@ function forLoop(array) {
 	for (let i = 1; i <= 25; i++) {
 		if (var === 1) {
 			console.log(`I am + ${i} strange loop.`);
-		}
-		else {
+		} else {
 			console.log(`I am ${i} strange loops.`);
 		}
 	}	
